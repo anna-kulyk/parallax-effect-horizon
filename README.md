@@ -1,0 +1,33 @@
+# Horizon Parallax Scrollin Effect
+
+Horizon Landing Page with parallax scrollin effect.
+Portfolio project.
+
+## [Check the live demo](https://horizon-parallax.netlify.app/)
+
+![Screenshot](https://raw.githubusercontent.com/anna-kulyk/parallax-effect-horizon/master/images/horizon.jpg)
+
+## Technologies used
+
+- HTML5
+- CSS
+- JavaScript
+
+## Features
+
+- Parallax scrolling effect
+- Scroll animations with Intersection Observer
+- Responsive Web Design
+- Smooth scrolling
+- Sections designed with CSS Flexbox and Grid layouts
+
+## Acknowledgements
+
+- [design template](https://www.figma.com/community/file/1174381774369491411)
+
+## Author
+
+👤 **Ganna Kulyk**
+
+- Github: [@anna-kulyk](https://github.com/anna-kulyk)
+- LinkedIn: [@Ganna Kulyk](https://linkedin.com/in/ganna-kulyk-b90273252)

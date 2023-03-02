@@ -319,6 +319,9 @@ html {
         width: 200%;
         transform: translate(-40%, 10%);
     }
+    .header__wrapper {
+        justify-content: center;
+    }
     .header__menu {
         display: none;
     }
