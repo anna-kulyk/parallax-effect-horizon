@@ -17,7 +17,6 @@ Portfolio project.
 
 - Parallax scrolling effect
 - Scroll animations with Intersection Observer
-- Responsive Web Design
 - Smooth scrolling
 - Sections designed with CSS Flexbox and Grid layouts
 
