@@ -1,6 +1,6 @@
-# Horizon Parallax Scrollin Effect
+# Horizon Parallax Scrolling Effect
 
-Horizon Landing Page with parallax scrollin effect.
+Horizon Landing Page with parallax scrolling effect.
 Portfolio project.
 
 ## [Check the live demo](https://horizon-parallax.netlify.app/)
