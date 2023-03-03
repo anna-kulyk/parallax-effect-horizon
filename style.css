@@ -5,7 +5,6 @@
 
 html {
     scroll-behavior: smooth;
-    background-color: #073649;
 }
 
 .wrapper {
@@ -20,7 +19,6 @@ html {
     max-width: 1810px;
     margin: 0 auto;
     padding: 0px 15px;
-    /* height: 100%; */
 }
 
 .parallax {
