@@ -38,7 +38,6 @@ window.addEventListener('load', () => {
             let parallax = document.querySelector('.parallax');
             let parallaxEelements = document.querySelectorAll('.parallax__element');
 
-            console.log(entry);
             if(!entry.isIntersecting && entry.boundingClientRect.y <= 0) {
                 parallax.style.position = 'absolute';
                 parallax.style.top = '100vh';
